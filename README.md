@@ -10,6 +10,29 @@ static $introduce = [
     "aka" => [
         "아바스",
         "Avas"
-    ]
+    ],
+    "want" => "어려가지 분야의 개발을 해보고 싶습니다."
 ];
 ```
+
+## Have Skils
+# Web Programming
+
+> Java Script
+> PHP
+> JQeury
+> node.js
+> Css
+
+# App Programming
+
+> Java Script
+
+# Game Programming
+
+> Unity
+> Engima
+> Quickly
+
+## School
+# Seoul It Hight School
