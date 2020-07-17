@@ -15,24 +15,24 @@ static $introduce = [
 ];
 ```
 
-## Have Skils
+### Have Skils
 # Web Programming
 
-> Java Script
-> PHP
-> JQeury
-> node.js
-> Css
+> Java Script <br>
+> PHP <br>
+> JQeury <br>
+> node.js <br>
+> Css <br>
 
 # App Programming
 
-> Java Script
+> Java Script <br>
 
 # Game Programming
 
-> Unity
-> Engima
-> Quickly
+> Unity <br>
+> Engima <br>
+> Quickly <br>
 
 ## School
 # Seoul It Hight School
