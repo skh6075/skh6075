@@ -15,8 +15,8 @@ static $introduce = [
 ];
 ```
 
-### Have Skils
-# Web Programming
+# Have Skils
+## Web Programming
 
 > Java Script <br>
 > PHP <br>
@@ -24,11 +24,11 @@ static $introduce = [
 > node.js <br>
 > Css <br>
 
-# App Programming
+## App Programming
 
 > Java Script <br>
 
-# Game Programming
+## Game Programming
 
 > Unity <br>
 > Engima <br>
