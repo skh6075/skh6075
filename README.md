@@ -5,4 +5,6 @@
 현재 다룰 수 있는 언어는 많지 않습니다.
 
 
-## PocketMine-MP Build Project (0-project)
+## PocketMine-MP Build Project (1-project)
+
+[![](https://img.shields.io/github/downloads/GodVas/MineListRecommend/total?color=success&labelColor=blue&label=MineListRecommend)](https://github.com/GodVas/MineListRecommend)
