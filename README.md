@@ -9,3 +9,5 @@
 
 [![](https://img.shields.io/github/downloads/GodVas/MineListRecommend/total?color=success&labelColor=blue&label=MineListRecommend)](https://github.com/GodVas/MineListRecommend)
 [![](https://img.shields.io/github/downloads/GodVas/ServerTransfer/total?color=success&labelColor=blue&label=ServerTransfer)](https://github.com/GodVas/ServerTransfer)
+[![](https://img.shields.io/github/downloads/GodVas/HackManager/total?color=success&labelColor=blue&label=HackManager)](https://github.com/GodVas/HackManager)
+[![](https://img.shields.io/github/downloads/GodVas/AdvancedNetherite/total?color=success&labelColor=blue&label=AdvancedNetherite)](https://github.com/GodVas/AdvancedNetherite)
