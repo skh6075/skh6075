@@ -15,7 +15,7 @@
 [![](https://img.shields.io/github/downloads/GodVas/ScheduleAPI/total?color=success&labelColor=blue&label=ScheduleAPI)](https://github.com/GodVas/ScheduleAPI)
 [![](https://img.shields.io/github/downloads/GodVas/NoUpdateFarmland/total?color=success&labelColor=blue&label=NoUpdateFarmland)](https://github.com/GodVas/NoUpdateFarmland)
 [![](https://img.shields.io/github/downloads/GodVas/ItemCaseAPI/total?color=success&labelColor=blue&label=ItemCaseAPI)](https://github.com/GodVas/ItemCaseAPI)
-[![](https://img.shields.io/github/downloads/GodVas/AdvanceContent/total?color=success&labelColor=blue&label=AdvanceContent)](https://github.com/GodVas/AdvnceContent)
+[![](https://img.shields.io/github/downloads/GodVas/AdvanceContent/total?color=success&labelColor=blue&label=AdvanceContent)](https://github.com/GodVas/AdvanceContent)
 
 
 ## NukkitX Build Project (1-project) (Java)
