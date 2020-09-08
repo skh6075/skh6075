@@ -5,7 +5,7 @@
 현재 다룰 수 있는 언어는 많지 않습니다.
 
 
-## PocketMine-MP Build Project (7-project) (PHP)
+## PocketMine-MP Build Project (8-project) (PHP)
 
 [![](https://img.shields.io/github/downloads/GodVas/MineListRecommend/total?color=success&labelColor=blue&label=MineListRecommend)](https://github.com/GodVas/MineListRecommend)
 [![](https://img.shields.io/github/downloads/GodVas/ServerTransfer/total?color=success&labelColor=blue&label=ServerTransfer)](https://github.com/GodVas/ServerTransfer)
@@ -14,6 +14,7 @@
 [![](https://img.shields.io/github/downloads/GodVas/SArea/total?color=success&labelColor=blue&label=SArea)](https://github.com/GodVas/SArea)
 [![](https://img.shields.io/github/downloads/GodVas/ScheduleAPI/total?color=success&labelColor=blue&label=ScheduleAPI)](https://github.com/GodVas/ScheduleAPI)
 [![](https://img.shields.io/github/downloads/GodVas/NoUpdateFarmland/total?color=success&labelColor=blue&label=NoUpdateFarmland)](https://github.com/GodVas/NoUpdateFarmland)
+[![](https://img.shields.io/github/downloads/GodVas/ItemCaseAPI/total?color=success&labelColor=blue&label=ItemCaseAPI)](https://github.com/GodVas/ItemCaseAPI)
 
 
 ## NukkitX Build Project (1-project) (Java)
