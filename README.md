@@ -12,6 +12,7 @@
 [![](https://img.shields.io/github/downloads/GodVas/HackManager/total?color=success&labelColor=blue&label=HackManager)](https://github.com/GodVas/HackManager)
 [![](https://img.shields.io/github/downloads/GodVas/AdvancedNetherite/total?color=success&labelColor=blue&label=AdvancedNetherite)](https://github.com/GodVas/AdvancedNetherite)
 [![](https://img.shields.io/github/downloads/GodVas/SArea/total?color=success&labelColor=blue&label=SArea)](https://github.com/GodVas/SArea)
+[![](https://img.shields.io/github/downloads/GodVas/ScheduleAPI/total?color=success&labelColor=blue&label=ScheduleAPI)](https://github.com/GodVas/ScheduleAPI)
 
 ## NukkitX Build Project (1-project) (Java)
 [![](https://img.shields.io/github/downloads/GodVas/DropCropPlugin/total?color=success&labelColor=blue&label=DropCropPlugin)](https://github.com/GodVas/DropCropPlugin)
