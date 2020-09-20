@@ -42,3 +42,6 @@
 ## NukkitX Build Project (1-project) (Java)
 
 [![](https://img.shields.io/github/downloads/GodVas/DropCropPlugin/total?color=success&labelColor=blue&label=DropCropPlugin)](https://github.com/GodVas/DropCropPlugin)
+
+
+![](https://github-readme-stats.vercel.app/api?username=GodVas&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
