@@ -4,7 +4,7 @@
 저는 [MinecraftBE](https://minecraft.gamepedia.com/Bedrock_Edition) 게임용 서버 소프트웨어 프로그래밍을 시작으로 개발에 관심이 생겨서 아이티의 길을 걸어가고 있습니다.
 현재 다룰 수 있는 언어는 많지 않습니다.
 
-- [PocketMine-MP](https://github.com/pmmp/PocketMine-MP)
+- [PocketMine-MP](https://github.com/pmmp/PocketMine-MP) | [Plugins](https://github.com/SKHPMMPPlugins)
 - [NukkitX](https://github.com/CloudburstMC/Nukkit)
 
 현재 개발중인 동물의 숲 시스템 프로잭트 (for Minecraft)
