@@ -21,7 +21,7 @@
 [![](https://img.shields.io/github/downloads/GodVas/ServerTransfer/total?color=success&labelColor=blue&label=ServerTransfer)](https://github.com/GodVas/ServerTransfer)
 [![](https://img.shields.io/github/downloads/GodVas/HackManager/total?color=success&labelColor=blue&label=HackManager)](https://github.com/GodVas/HackManager)
 [![](https://img.shields.io/github/downloads/GodVas/AdvancedNetherite/total?color=success&labelColor=blue&label=AdvancedNetherite)](https://github.com/GodVas/AdvancedNetherite)
-[![](https://img.shields.io/github/downloads/GodVas/SArea/total?color=success&labelColor=blue&label=SArea)](https://github.com/GodVas/SArea)
+[![](https://img.shields.io/github/downloads/GodVas/CapeAPI/total?color=success&labelColor=blue&label=CapeAPI)](https://github.com/GodVas/CapeAPI)
 [![](https://img.shields.io/github/downloads/GodVas/ScheduleAPI/total?color=success&labelColor=blue&label=ScheduleAPI)](https://github.com/GodVas/ScheduleAPI)
 [![](https://img.shields.io/github/downloads/GodVas/NoUpdateFarmland/total?color=success&labelColor=blue&label=NoUpdateFarmland)](https://github.com/GodVas/NoUpdateFarmland)
 [![](https://img.shields.io/github/downloads/GodVas/ItemCaseAPI/total?color=success&labelColor=blue&label=ItemCaseAPI)](https://github.com/GodVas/ItemCaseAPI)
