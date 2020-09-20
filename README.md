@@ -27,9 +27,9 @@
 [![](https://img.shields.io/github/downloads/GodVas/ItemCaseAPI/total?color=success&labelColor=blue&label=ItemCaseAPI)](https://github.com/GodVas/ItemCaseAPI)
 [![](https://img.shields.io/github/downloads/GodVas/AdvanceRaid/total?color=success&labelColor=blue&label=AdvanceRaid)](https://github.com/GodVas/AdvanceRaid)
 [![](https://img.shields.io/github/downloads/GodVas/AdvanceQuest/total?color=success&labelColor=blue&label=AdvanceQuest)](https://github.com/GodVas/AdvanceQuest)
-[![](https://img.shields.io/github/downloads/GodVas/BlockBreakSecondHack/total?color=success&labelColor=blue&label=BlockBreakSecondHack)](https://github.com/GodVas/BlockBreakSecondHack)
+[![](https://img.shields.io/github/downloads/GodVas/CapeShop/total?color=success&labelColor=blue&label=CapeShop)](https://github.com/GodVas/CapeShop)
 [![](https://img.shields.io/github/downloads/GodVas/SpawnParticle/total?color=success&labelColor=blue&label=SpawnParticle)](https://github.com/GodVas/SpawnParticle)
-[![](https://img.shields.io/github/downloads/GodVas/AdvanceReboote/total?color=success&labelColor=blue&label=AdvanceReboot)](https://github.com/GodVas/AdvanceReboot)
+[![](https://img.shields.io/github/downloads/GodVas/ProtectedItemFrame/total?color=success&labelColor=blue&label=ProtectedItemFrame)](https://github.com/GodVas/ProtectedItemFrame)
 
 
 ## PocketMine-MP Build Project (3-private-project) (PHP)
