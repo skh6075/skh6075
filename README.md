@@ -2,14 +2,17 @@
 ## 안녕하세요. 저는 서울 아이티 고등학교에 재학중인 송기호 입니다.
 
 저는 [MinecraftBE](https://minecraft.gamepedia.com/Bedrock_Edition) 게임용 서버 소프트웨어 프로그래밍을 시작으로 개발에 관심이 생겨서 아이티의 길을 걸어가고 있습니다.
-현재 다룰 수 있는 언어는 많지 않습니다.
+현재 다룰 수 있는 언어는 PHP와 Java입니다.
+현재 Java를 기초 부터 다시 복습 후 nodeJs를 공부할 예정 입니다.
 
-- [PocketMine-MP](https://github.com/pmmp/PocketMine-MP) | [Plugins](https://github.com/SKHPMMPPlugins)
-- [NukkitX](https://github.com/CloudburstMC/Nukkit)
+
+- [PocketMine-MP](https://github.com/pmmp/PocketMine-MP) | [Plugins](https://github.com/SKHPMMPPlugins) | PHP 언어
+- [NukkitX](https://github.com/CloudburstMC/Nukkit) | Java 언어
+
 
 현재 개발중인 동물의 숲 시스템 프로잭트 (for Minecraft)
 
-- [HForest](https://github.com/GodVas/HForestProject)
+- [HForest](https://github.com/GodVas/HForestProject) | 동물의 숲
 
 
 ## PocketMine-MP Build Project (16-public-project) (PHP)
