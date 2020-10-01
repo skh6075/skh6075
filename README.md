@@ -16,7 +16,7 @@
 
 현재 개발중인 포켓몬스터 시스템 (for Minecraft)
 
-- TODO..
+- TODO...
 
 
 ## PocketMine-MP Build Project (16-public-project) (PHP)
