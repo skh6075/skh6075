@@ -16,6 +16,12 @@
 
 <p align="center">
   <a href="#">
+    <img src="https://github-profile-trophy.vercel.app/?username=PresentKim&margin-w=28&margin-h=15&theme=nord" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="#">
     <img src="https://img.shields.io/badge/-C-2e3440?logoColor=81a1c1&logo=C" />
     <img src="https://img.shields.io/badge/-C++-2e3440?logoColor=81a1c1&logo=c%2b%2b" />
     <img src="https://img.shields.io/badge/-Java-2e3440?logoColor=81a1c1&logo=Java" />
@@ -29,6 +35,3 @@
     <img src="https://img.shields.io/badge/-NodeJS-2e3440?logoColor=81a1c1&logo=node.js" />
   </a>
 </p>
-
-<br><br>
-![](https://github-readme-stats.vercel.app/api?username=GodVas&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
