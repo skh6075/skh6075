@@ -36,7 +36,7 @@
 
 <br><br>
 
-# :tree: PMMP Plugins
+# :package: PMMP Plugins
 <div align="center">
-  [![-](https://github-readme-stats.vercel.app/api/pin/?show_owner=true&theme=nord&username=SKHPMMPPlugins&repo=S3DItemToolS)](https://github.com/SKHPMMPPlugins/S3DItemToolS)
+  [![-](https://github-readme-stats.vercel.app/api/pin/?show_owner=true&theme=nord&username=Blugin&repo=PaymentPool)](https://github.com/Blugin/PaymentPool)
 </div>
