@@ -33,3 +33,9 @@
     <img src="https://img.shields.io/badge/-NodeJS-2e3440?logoColor=81a1c1&logo=node.js" />
   </a>
 </p>
+
+<br><br>
+
+# :package: PMMP Plugins
+<div align="center">
+  [![-](https://github-readme-stats.vercel.app/api/pin/?show_owner=true&theme=nord&username=SKHPMMPPlugins&repo=S3DItemToolS)](https://github.com/SKHPMMPPlugins/S3DItemToolS)
