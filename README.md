@@ -35,8 +35,3 @@
 </p>
 
 <br><br>
-
-# :package: PMMP plugin's
-<div align="center">
-  [![-](https://github-readme-stats.vercel.app/api/pin/?show_owner=true&theme=nord&username=SKHPMMPPlugins&repo=S3DItemToolS)](https://github.com/SKHPMMPPlugins/S3DItemToolS)
-</div>
