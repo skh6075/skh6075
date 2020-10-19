@@ -35,3 +35,23 @@
 </p>
 
 <br><br>
+
+# :package: PMMP plugin projects
+<div align="center">
+  
+  [![-](https://github-readme-stats.vercel.app/api/pin/?show_owner=true&theme=nord&username=Blugin&repo=PaymentPool)](https://github.com/Blugin/PaymentPool)
+  [![-](https://github-readme-stats.vercel.app/api/pin/?show_owner=true&theme=nord&username=Blugin&repo=BluginTools)](https://github.com/Blugin/BluginTools)
+  
+  [![-](https://github-readme-stats.vercel.app/api/pin/?show_owner=true&theme=nord&username=Blugin&repo=Lifespan)](https://github.com/Blugin/Lifespan)
+  [![-](https://github-readme-stats.vercel.app/api/pin/?show_owner=true&theme=nord&username=Blugin&repo=DataCleaner)](https://github.com/Blugin/DataCleaner)
+  
+  [![-](https://github-readme-stats.vercel.app/api/pin/?show_owner=true&theme=nord&username=Blugin&repo=SkinFactory)](https://github.com/Blugin/SkinFactory)
+  [![-](https://github-readme-stats.vercel.app/api/pin/?show_owner=true&theme=nord&username=Blugin&repo=PersonaSkin)](https://github.com/Blugin/PersonaSkin)
+  
+  [![-](https://github-readme-stats.vercel.app/api/pin/?show_owner=true&theme=nord&username=Blugin&repo=IgnoreCase)](https://github.com/Blugin/IgnoreCase)
+  [![-](https://github-readme-stats.vercel.app/api/pin/?show_owner=true&theme=nord&username=Blugin&repo=SingletonTrait)](https://github.com/Blugin/SingletonTrait)
+  
+  [![-](https://github-readme-stats.vercel.app/api/pin/?show_owner=true&theme=nord&username=Blugin&repo=AvoidSuffocation)](https://github.com/Blugin/AvoidSuffocation)
+  [![-](https://github-readme-stats.vercel.app/api/pin/?show_owner=true&theme=nord&username=Blugin&repo=ChunkLoader)](https://github.com/Blugin/ChunkLoader)
+  
+</div>
