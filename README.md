@@ -38,6 +38,6 @@
 
 <div align="center">
   
-  [![-](https://github-readme-stats.vercel.app/api/pin/?show_owner=true&theme=nord&username=GodVas&repo=DropCropPlugin)](https://github.com/GodVas/DropCropPlugin)
+  [![-](https://github-readme-stats.vercel.app/api/pin/?show_owner=true&theme=nord&username=ExtraTas&repo=ProtectItemFrame)](https://github.com/ExtraTas/ProtectItemFrame)
 
 </div>
