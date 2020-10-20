@@ -38,6 +38,10 @@
 
 <div align="center">
   
-  [![-](https://github-readme-stats.vercel.app/api/pin/?show_owner=true&theme=nord&username=ExtraTas&repo=ProtectItemFrame)](https://github.com/ExtraTas/ProtectItemFrame)
+  [![-](https://github-readme-stats.vercel.app/api/pin/?show_owner=true&theme=nord&username=SKHPMMPPlugins&repo=S3DItemToolS)](https://github.com/SKHPMMPPlugins/S3DItemToolS)
+  [![-](https://github-readme-stats.vercel.app/api/pin/?show_owner=true&theme=nord&username=SKHPMMPPlugins&repo=MagicSpell)](https://github.com/SKHPMMPPlugins/MagicSpell)
+  
+  [![-](https://github-readme-stats.vercel.app/api/pin/?show_owner=true&theme=nord&username=SKHPMMPPlugins&repo=DailyShop)](https://github.com/SKHPMMPPlugins/DailyShop)
+  [![-](https://github-readme-stats.vercel.app/api/pin/?show_owner=true&theme=nord&username=SKHPMMPPlugins&repo=ProtectItemFrame)](https://github.com/SKHPMMPPlugins/ProtectItemFrame)
 
 </div>
