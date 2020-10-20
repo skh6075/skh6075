@@ -35,3 +35,9 @@
 </p>
 
 <br><br>
+
+<div align="center">
+  
+  [![-](https://github-readme-stats.vercel.app/api/pin/?show_owner=true&theme=nord&username=GodVas&repo=DropCropPlugin)](https://github.com/GodVas/DropCropPlugin)
+
+</div>
