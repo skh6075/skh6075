@@ -43,5 +43,20 @@
   
   [![-](https://github-readme-stats.vercel.app/api/pin/?show_owner=true&theme=nord&username=SKHPMMPPlugins&repo=DailyShop)](https://github.com/SKHPMMPPlugins/DailyShop)
   [![-](https://github-readme-stats.vercel.app/api/pin/?show_owner=true&theme=nord&username=SKHPMMPPlugins&repo=ProtectItemFrame)](https://github.com/SKHPMMPPlugins/ProtectItemFrame)
+  
+  [![-](https://github-readme-stats.vercel.app/api/pin/?show_owner=true&theme=nord&username=SKHPMMPPlugins&repo=AttendanceCheck)](https://github.com/SKHPMMPPlugins/AttendanceCheck)
+  [![-](https://github-readme-stats.vercel.app/api/pin/?show_owner=true&theme=nord&username=SKHPMMPPlugins&repo=MiniGameAPI)](https://github.com/SKHPMMPPlugins/MiniGameAPI)
+  
+  [![-](https://github-readme-stats.vercel.app/api/pin/?show_owner=true&theme=nord&username=SKHPMMPPlugins&repo=ServerTransfer)](https://github.com/SKHPMMPPlugins/ServerTransfer)
+  [![-](https://github-readme-stats.vercel.app/api/pin/?show_owner=true&theme=nord&username=SKHPMMPPlugins&repo=HackManager)](https://github.com/SKHPMMPPlugins/HackManager)
+  
+  [![-](https://github-readme-stats.vercel.app/api/pin/?show_owner=true&theme=nord&username=SKHPMMPPlugins&repo=MineListRecommend)](https://github.com/SKHPMMPPlugins/MineListRecommend)
+  [![-](https://github-readme-stats.vercel.app/api/pin/?show_owner=true&theme=nord&username=SKHPMMPPlugins&repo=ItemCaseAPI)](https://github.com/SKHPMMPPlugins/ItemCaseAPI)
+
+  [![-](https://github-readme-stats.vercel.app/api/pin/?show_owner=true&theme=nord&username=SKHPMMPPlugins&repo=NoUpdateFarmland)](https://github.com/SKHPMMPPlugins/NoUpdateFarmland)
+  [![-](https://github-readme-stats.vercel.app/api/pin/?show_owner=true&theme=nord&username=SKHPMMPPlugins&repo=ScheduleAPI)](https://github.com/SKHPMMPPlugins/ScheduleAPI)
+
+  [![-](https://github-readme-stats.vercel.app/api/pin/?show_owner=true&theme=nord&username=SKHPMMPPlugins&repo=AdvancedNetherite)](https://github.com/SKHPMMPPlugins/AdvancedNetherite)
+  [![-](https://github-readme-stats.vercel.app/api/pin/?show_owner=true&theme=nord&username=SKHPMMPPlugins&repo=PHPMailer)](https://github.com/SKHPMMPPlugins/PHPMailer)
 
 </div>
