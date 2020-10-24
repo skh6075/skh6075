@@ -38,6 +38,7 @@
 
 <br><br>
 
+# :package: PMMP Plugin Projects
 <div align="center">
   
   [![-](https://github-readme-stats.vercel.app/api/pin/?show_owner=true&theme=nord&username=SKHPMMPPlugins&repo=S3DItemToolS)](https://github.com/SKHPMMPPlugins/S3DItemToolS)
@@ -60,5 +61,13 @@
 
   [![-](https://github-readme-stats.vercel.app/api/pin/?show_owner=true&theme=nord&username=SKHPMMPPlugins&repo=AdvancedNetherite)](https://github.com/SKHPMMPPlugins/AdvancedNetherite)
   [![-](https://github-readme-stats.vercel.app/api/pin/?show_owner=true&theme=nord&username=SKHPMMPPlugins&repo=PHPMailer)](https://github.com/SKHPMMPPlugins/PHPMailer)
+
+</div>
+
+# :package: Athena Plugin Projects
+
+<div align="center">
+  
+  [![-](https://github-readme-stats.vercel.app/api/pin/?show_owner=true&theme=nord&username=AthenaPlugins&repo=VirtualEconomy)](https://github.com/AthenaPlugins/VirtualEconomy)
 
 </div>
