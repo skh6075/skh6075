@@ -41,33 +41,25 @@
 # :package: PMMP Plugin Projects
 <div align="center">
   
-  [![-](https://github-readme-stats.vercel.app/api/pin/?show_owner=true&theme=nord&username=SKHPMMPPlugins&repo=S3DItemToolS)](https://github.com/SKHPMMPPlugins/S3DItemToolS)
-  [![-](https://github-readme-stats.vercel.app/api/pin/?show_owner=true&theme=nord&username=SKHPMMPPlugins&repo=MagicSpell)](https://github.com/SKHPMMPPlugins/MagicSpell)
+  [![-](https://github-readme-stats.vercel.app/api/pin/?show_owner=true&theme=nord&username=GodVas&repo=S3DItemToolS)](https://github.com/GodVas/S3DItemToolS)
+  [![-](https://github-readme-stats.vercel.app/api/pin/?show_owner=true&theme=nord&username=GodVas&repo=MagicSpell)](https://github.com/GodVas/MagicSpell)
   
-  [![-](https://github-readme-stats.vercel.app/api/pin/?show_owner=true&theme=nord&username=SKHPMMPPlugins&repo=DailyShop)](https://github.com/SKHPMMPPlugins/DailyShop)
-  [![-](https://github-readme-stats.vercel.app/api/pin/?show_owner=true&theme=nord&username=SKHPMMPPlugins&repo=ProtectItemFrame)](https://github.com/SKHPMMPPlugins/ProtectItemFrame)
+  [![-](https://github-readme-stats.vercel.app/api/pin/?show_owner=true&theme=nord&username=GodVas&repo=DailyShop)](https://github.com/GodVas/DailyShop)
+  [![-](https://github-readme-stats.vercel.app/api/pin/?show_owner=true&theme=nord&username=GodVas&repo=ProtectItemFrame)](https://github.com/GodVas/ProtectItemFrame)
   
-  [![-](https://github-readme-stats.vercel.app/api/pin/?show_owner=true&theme=nord&username=SKHPMMPPlugins&repo=AttendanceCheck)](https://github.com/SKHPMMPPlugins/AttendanceCheck)
-  [![-](https://github-readme-stats.vercel.app/api/pin/?show_owner=true&theme=nord&username=SKHPMMPPlugins&repo=MiniGameAPI)](https://github.com/SKHPMMPPlugins/MiniGameAPI)
+  [![-](https://github-readme-stats.vercel.app/api/pin/?show_owner=true&theme=nord&username=GodVas&repo=AttendanceCheck)](https://github.com/GodVas/AttendanceCheck)
+  [![-](https://github-readme-stats.vercel.app/api/pin/?show_owner=true&theme=nord&username=GodVas&repo=MiniGameAPI)](https://github.com/GodVas/MiniGameAPI)
   
-  [![-](https://github-readme-stats.vercel.app/api/pin/?show_owner=true&theme=nord&username=SKHPMMPPlugins&repo=ServerTransfer)](https://github.com/SKHPMMPPlugins/ServerTransfer)
-  [![-](https://github-readme-stats.vercel.app/api/pin/?show_owner=true&theme=nord&username=SKHPMMPPlugins&repo=HackManager)](https://github.com/SKHPMMPPlugins/HackManager)
+  [![-](https://github-readme-stats.vercel.app/api/pin/?show_owner=true&theme=nord&username=GodVas&repo=ServerTransfer)](https://github.com/GodVas/ServerTransfer)
+  [![-](https://github-readme-stats.vercel.app/api/pin/?show_owner=true&theme=nord&username=GodVas&repo=HackManager)](https://github.com/GodVas/HackManager)
   
-  [![-](https://github-readme-stats.vercel.app/api/pin/?show_owner=true&theme=nord&username=SKHPMMPPlugins&repo=MineListRecommend)](https://github.com/SKHPMMPPlugins/MineListRecommend)
-  [![-](https://github-readme-stats.vercel.app/api/pin/?show_owner=true&theme=nord&username=SKHPMMPPlugins&repo=ItemCaseAPI)](https://github.com/SKHPMMPPlugins/ItemCaseAPI)
+  [![-](https://github-readme-stats.vercel.app/api/pin/?show_owner=true&theme=nord&username=GodVas&repo=MineListRecommend)](https://github.com/GodVas/MineListRecommend)
+  [![-](https://github-readme-stats.vercel.app/api/pin/?show_owner=true&theme=nord&username=GodVas&repo=ItemCaseAPI)](https://github.com/GodVas/ItemCaseAPI)
 
-  [![-](https://github-readme-stats.vercel.app/api/pin/?show_owner=true&theme=nord&username=SKHPMMPPlugins&repo=NoUpdateFarmland)](https://github.com/SKHPMMPPlugins/NoUpdateFarmland)
-  [![-](https://github-readme-stats.vercel.app/api/pin/?show_owner=true&theme=nord&username=SKHPMMPPlugins&repo=ScheduleAPI)](https://github.com/SKHPMMPPlugins/ScheduleAPI)
+  [![-](https://github-readme-stats.vercel.app/api/pin/?show_owner=true&theme=nord&username=GodVas&repo=NoUpdateFarmland)](https://github.com/GodVas/NoUpdateFarmland)
+  [![-](https://github-readme-stats.vercel.app/api/pin/?show_owner=true&theme=nord&username=GodVas&repo=ScheduleAPI)](https://github.com/GodVas/ScheduleAPI)
 
-  [![-](https://github-readme-stats.vercel.app/api/pin/?show_owner=true&theme=nord&username=SKHPMMPPlugins&repo=AdvancedNetherite)](https://github.com/SKHPMMPPlugins/AdvancedNetherite)
-  [![-](https://github-readme-stats.vercel.app/api/pin/?show_owner=true&theme=nord&username=SKHPMMPPlugins&repo=PHPMailer)](https://github.com/SKHPMMPPlugins/PHPMailer)
-
-</div>
-
-# :package: Athena Plugin Projects
-
-<div align="center">
-  
-  [![-](https://github-readme-stats.vercel.app/api/pin/?show_owner=true&theme=nord&username=AthenaPlugins&repo=VirtualEconomy)](https://github.com/AthenaPlugins/VirtualEconomy)
+  [![-](https://github-readme-stats.vercel.app/api/pin/?show_owner=true&theme=nord&username=GodVas&repo=AdvancedNetherite)](https://github.com/GodVas/AdvancedNetherite)
+  [![-](https://github-readme-stats.vercel.app/api/pin/?show_owner=true&theme=nord&username=GodVas&repo=VirtualEconomy)](https://github.com/GodVas/VirtualEconomy)
 
 </div>
