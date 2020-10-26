@@ -5,6 +5,9 @@
 
 * [코딩파티인증서](https://github.com/SKHCodingParty)
 
+! 모든 플러그인은 송기호 본인의 포트폴리오용 플러그인 프로잭트 입니다.
+! 플러그인 사용 허가가 없는 서버사용은 금지하며, 허가가 된 서버라도 상업적 이용, 후원 이 금지됩니다.
+
 <!-- profile see PresentKim -->
 
 <p align="center">
