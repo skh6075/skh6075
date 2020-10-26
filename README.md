@@ -38,7 +38,7 @@
 
 <br><br>
 
-# :package: PMMP Plugin Projects
+# :package: PMMP Plugin Projects with PHP 7.3 [3.10.0]
 <div align="center">
   
   [![-](https://github-readme-stats.vercel.app/api/pin/?show_owner=true&theme=nord&username=GodVas&repo=S3DItemToolS)](https://github.com/GodVas/S3DItemToolS)
@@ -60,6 +60,12 @@
   [![-](https://github-readme-stats.vercel.app/api/pin/?show_owner=true&theme=nord&username=GodVas&repo=ScheduleAPI)](https://github.com/GodVas/ScheduleAPI)
 
   [![-](https://github-readme-stats.vercel.app/api/pin/?show_owner=true&theme=nord&username=GodVas&repo=AdvancedNetherite)](https://github.com/GodVas/AdvancedNetherite)
-  [![-](https://github-readme-stats.vercel.app/api/pin/?show_owner=true&theme=nord&username=GodVas&repo=VirtualEconomy)](https://github.com/GodVas/VirtualEconomy)
 
+</div>
+
+# :package: PMMP Plugins Project with PHP 7.4 [4.0.0]
+<div align="center">
+  
+  [![-](https://github-readme-stats.vercel.app/api/pin/?show_owner=true&theme=nord&username=GodVas&repo=VirtualEconomy)](https://github.com/GodVas/VirtualEconomy)
+  [![-](https://github-readme-stats.vercel.app/api/pin/?show_owner=true&theme=nord&username=GodVas&repo=BandAPI)](https://github.com/GodVas/BandAPI)
 </div>
