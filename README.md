@@ -64,6 +64,7 @@
   [![-](https://github-readme-stats.vercel.app/api/pin/?show_owner=true&theme=nord&username=GodVas&repo=ScheduleAPI)](https://github.com/GodVas/ScheduleAPI)
 
   [![-](https://github-readme-stats.vercel.app/api/pin/?show_owner=true&theme=nord&username=GodVas&repo=AdvancedNetherite)](https://github.com/GodVas/AdvancedNetherite)
+  [![-](https://github-readme-stats.vercel.app/api/pin/?show_owner=true&theme=nord&username=GodVas&repo=VanillaEntity)](https://github.com/GodVas/VanillaEntity)
 
 </div>
 
