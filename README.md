@@ -28,6 +28,7 @@
 <p align="center">
   <a href="#">
     <img src="https://img.shields.io/badge/-C-2e3440?logoColor=81a1c1&logo=C" />
+    <img src="https://img.shields.io/badge/-Python-2e3440?logoColor=81a1c1&logo=Python" />
     <img src="https://img.shields.io/badge/-C++-2e3440?logoColor=81a1c1&logo=c%2b%2b" />
     <img src="https://img.shields.io/badge/-Java-2e3440?logoColor=81a1c1&logo=Java" />
     <img src="https://img.shields.io/badge/-PHP-2e3440?logoColor=81a1c1&logo=PHP" />
