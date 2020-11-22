@@ -1,14 +1,14 @@
 ### My Profile.
 ## 안녕하세요. 저는 서울 아이티 고등학교에 재학중인 송기호 입니다.
+<br>
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%234ED78E&title_bg=%23FFFFFF&icon=codio.svg&icon_color=%23254BC1&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+
+<br>
 
 
 저는 [MinecraftBE](https://minecraft.gamepedia.com/Bedrock_Edition) 게임용 서버 소프트웨어 프로그래밍을 시작으로 개발에 관심이 생겨서 아이티의 길을 걸어가고 있습니다.
 
 * [코딩파티인증서](https://github.com/SKHCodingParty)
-
-! 모든 플러그인은 송기호 본인의 포트폴리오용 플러그인 프로잭트 입니다.
-<br>
-! 플러그인 사용 허가가 없는 서버사용은 금지하며, 허가가 된 서버라도 상업적 이용, 후원 이 금지됩니다.
 
 <!-- profile see PresentKim -->
 
