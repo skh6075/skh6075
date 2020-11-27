@@ -7,7 +7,7 @@
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:skh6075@gmail.com)](mailto:skh6075@gmail.com)
 <a href="https://discord.gg/6EuawjY3u4">
 <br>
-![](https://img.shields.io/badge/chat%20on-Discord-blue)
+![](https://img.shields.io/badge/My-Discord-blue)
 
 <br>
 
