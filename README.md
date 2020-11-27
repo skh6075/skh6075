@@ -17,6 +17,7 @@
 
 * [코딩파티인증서](https://github.com/SKHCodingParty)
 
+<br>
 
 <p align="center">
   <a href="#">
