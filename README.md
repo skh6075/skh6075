@@ -36,6 +36,7 @@
     <img src="https://github-profile-trophy.vercel.app/?username=GodVas&margin-w=28&margin-h=15&theme=nord" />
   </a>
 </p>
+<br>
 
 <p align="center">
   <a href="#">
