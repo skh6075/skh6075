@@ -98,6 +98,6 @@
 # :package: PMMP Plugins Private Repos
 <div align="center">
   
-  [![-](https://github-readme-stats.vercel.app/api/pin/?show_owner=true&theme=nord&username=GodVas&repo=NewolSkill)](https://github.com/GodVas/NewolSkill)
+  [![](https://img.shields.io/github/languages/top/GodVas/NewolSkill?style=for-the-badge&logo=appveyor&label=NewolSkill)](https://github.com/GodVas/NewolSkill)
   
 </div>
