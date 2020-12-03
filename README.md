@@ -92,4 +92,12 @@
   
   [![-](https://github-readme-stats.vercel.app/api/pin/?show_owner=true&theme=nord&username=GodVas&repo=VirtualEconomy)](https://github.com/GodVas/VirtualEconomy)
   [![-](https://github-readme-stats.vercel.app/api/pin/?show_owner=true&theme=nord&username=GodVas&repo=BandAPI)](https://github.com/GodVas/BandAPI)
+  
+</div>
+
+# :package: PMMP Plugins Private Repos
+<div align="center">
+  
+  [![-](https://github-readme-stats.vercel.app/api/pin/?show_owner=true&theme=nord&username=GodVas&repo=NewolSkill)](https://github.com/GodVas/NewolSkill)
+  
 </div>
