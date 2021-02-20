@@ -89,10 +89,8 @@
   [![-](https://github-readme-stats.vercel.app/api/pin/?show_owner=true&theme=nord&username=GodVas&repo=SmartDungeon)](https://github.com/GodVas/SmartDungeon)
   [![-](https://github-readme-stats.vercel.app/api/pin/?show_owner=true&theme=nord&username=GodVas&repo=AutoCrops)](https://github.com/GodVas/AutoCrops)
   
-</div>
-
-# :package: PMMP Plugins Project with PHP 7.4 [4.0.0]
-<div align="center">
+  [![-](https://github-readme-stats.vercel.app/api/pin/?show_owner=true&theme=nord&username=Blugin&repo=EnchantingTableLoader)](https://github.com/Blugin/EnchantingTableLoader)
+  [![-](https://github-readme-stats.vercel.app/api/pin/?show_owner=true&theme=nord&username=Blugin&repo=InfinityDurability)](https://github.com/Blugin/InfinityDurability)
   
   [![-](https://github-readme-stats.vercel.app/api/pin/?show_owner=true&theme=nord&username=GodVas&repo=VirtualEconomy)](https://github.com/GodVas/VirtualEconomy)
   [![-](https://github-readme-stats.vercel.app/api/pin/?show_owner=true&theme=nord&username=GodVas&repo=BandAPI)](https://github.com/GodVas/BandAPI)
@@ -103,5 +101,12 @@
 <div align="center">
   
   [![](https://img.shields.io/github/languages/top/GodVas/NewolSkill?style=for-the-badge&logo=appveyor&label=NewolSkill)](https://github.com/GodVas/NewolSkill)
+  
+</div>
+
+# :package: Nukkit Java Plugins Repos
+<div align="center">
+  
+  [![-](https://github-readme-stats.vercel.app/api/pin/?show_owner=true&theme=nord&username=GodVas&repo=DropCropPlugin)](https://github.com/GodVas/DropCropPlugin)
   
 </div>
