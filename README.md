@@ -12,7 +12,7 @@
 <br>
 
 
-저는 [MinecraftBE](https://minecraft.gamepedia.com/Bedrock_Edition) 게임용 서버 소프트웨어 프로그래밍을 시작으로 개발에 관심이 생겨서 아이티의 길을 걸어가고 있습니다. <br>
+[MinecraftBE](https://minecraft.gamepedia.com/Bedrock_Edition) 게임용 서버 소프트웨어 프로그래밍을 시작으로 개발에 관심이 생겨서 개발쪽으로 공부하고 있습니다. <br>
 현재 php, Java, JavaScript, Python, Jsp를 같이 공부하고 있습니다.
 
 <br>
