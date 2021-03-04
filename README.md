@@ -96,13 +96,6 @@
   
 </div>
 
-# :package: PMMP Plugins Private Repos
-<div align="center">
-  
-  [![](https://img.shields.io/github/languages/top/GodVas/NewolSkill?style=for-the-badge&logo=appveyor&label=NewolSkill)](https://github.com/GodVas/NewolSkill)
-  
-</div>
-
 # :package: Nukkit Java Plugins Repos
 <div align="center">
   
@@ -114,5 +107,6 @@
 <div align="center">
   
   [![-](https://github-readme-stats.vercel.app/api/pin/?show_owner=true&theme=nord&username=GodVas&repo=Chatting)](https://github.com/GodVas/Chatting)
+  [![-](https://github-readme-stats.vercel.app/api/pin/?show_owner=true&theme=nord&username=GodVas&repo=Scottris)](https://github.com/GodVas/Scottris)
   
 </div>
