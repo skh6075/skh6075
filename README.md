@@ -110,3 +110,10 @@
   [![-](https://github-readme-stats.vercel.app/api/pin/?show_owner=true&theme=nord&username=GodVas&repo=Scottris)](https://github.com/GodVas/Scottris)
   
 </div>
+
+# :package: Python Program
+<div align="center">
+  
+  [![-](https://github-readme-stats.vercel.app/api/pin/?show_owner=true&theme=nord&username=GodVas&repo=PyShootingGame)](https://github.com/GodVas/PyShootingGame)
+  
+</div>
