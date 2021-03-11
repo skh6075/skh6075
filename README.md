@@ -94,6 +94,8 @@
   [![-](https://github-readme-stats.vercel.app/api/pin/?show_owner=true&theme=nord&username=GodVas&repo=VirtualEconomy)](https://github.com/GodVas/VirtualEconomy)
   [![-](https://github-readme-stats.vercel.app/api/pin/?show_owner=true&theme=nord&username=GodVas&repo=BandAPI)](https://github.com/GodVas/BandAPI)
   
+  [![-](https://github-readme-stats.vercel.app/api/pin/?show_owner=true&theme=nord&username=GodVas&repo=BackPackPlus)](https://github.com/GodVas/BackPackPlus)
+  
 </div>
 
 # :package: Nukkit Java Plugins Repos
