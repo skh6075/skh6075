@@ -80,7 +80,7 @@
   [![-](https://github-readme-stats.vercel.app/api/pin/?show_owner=true&theme=nord&username=GodVas&repo=VanillaEntity)](https://github.com/GodVas/VanillaEntity)
   [![-](https://github-readme-stats.vercel.app/api/pin/?show_owner=true&theme=nord&username=GodVas&repo=ShopKeeper)](https://github.com/GodVas/ShopKeeper)
   
-  [![-](https://github-readme-stats.vercel.app/api/pin/?show_owner=true&theme=nord&username=GodVas&repo=SmartDungeon)](https://github.com/GodVas/SmartDungeon)
+  [![-](https://github-readme-stats.vercel.app/api/pin/?show_owner=true&theme=nord&username=GodVas&repo=DungeonPlus)](https://github.com/GodVas/DungeonPlus)
   [![-](https://github-readme-stats.vercel.app/api/pin/?show_owner=true&theme=nord&username=GodVas&repo=AutoCrops)](https://github.com/GodVas/AutoCrops)
   
   [![-](https://github-readme-stats.vercel.app/api/pin/?show_owner=true&theme=nord&username=Blugin&repo=EnchantingTableLoader)](https://github.com/Blugin/EnchantingTableLoader)
