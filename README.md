@@ -90,6 +90,7 @@
   [![-](https://github-readme-stats.vercel.app/api/pin/?show_owner=true&theme=nord&username=GodVas&repo=BandAPI)](https://github.com/GodVas/BandAPI)
   
   [![-](https://github-readme-stats.vercel.app/api/pin/?show_owner=true&theme=nord&username=GodVas&repo=BackPackPlus)](https://github.com/GodVas/BackPackPlus)
+  [![-](https://github-readme-stats.vercel.app/api/pin/?show_owner=true&theme=nord&username=GodVas&repo=ExpirationDateItem)](https://github.com/GodVas/ExpirationDateItem)
   
 </div>
 
