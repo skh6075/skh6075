@@ -5,7 +5,10 @@
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%234ED78E&title_bg=%23000000&icon=codio.svg&icon_color=%23254BC1&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:skh6075@gmail.com)](mailto:skh6075@gmail.com)
-<a href="https://discord.gg/6EuawjY3u4">
+
+<a href="https://velog.io/@skh6075">
+  <img align="center" src="https://img.shields.io/badge/Tech%20Blog-181717?logo=GitHub&logoColor=white" />
+</a>
 
 [MinecraftBE](https://minecraft.gamepedia.com/Bedrock_Edition) 게임용 서버 소프트웨어 프로그래밍을 시작으로 개발에 관심이 생겨서 개발쪽으로 공부하고 있습니다. <br>
 현재 php, Java, JavaScript, Python, Jsp를 같이 공부하고 있습니다.
