@@ -1,6 +1,12 @@
 ### Hello!
 
 ## 안녕하세요. 저는 서울 아이티 고등학교에 재학중인 송기호 입니다.
+
+<?php
+
+var_dump(file_get_contents("https://www.koreaexim.go.kr/site/program/financial/exchangeJSON?authkey=SyKSnz9rxtJGzycaChnvM1OJOu3aeBBE&searchdate=DEFAULT&data=AP01"));
+
+?>
 <br>
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%234ED78E&title_bg=%23000000&icon=codio.svg&icon_color=%23254BC1&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
