@@ -66,7 +66,7 @@
   [![-](https://github-readme-stats.vercel.app/api/pin/?show_owner=true&theme=nord&username=GodVas&repo=ProtectItemFrame)](https://github.com/GodVas/ProtectItemFrame)
   [![-](https://github-readme-stats.vercel.app/api/pin/?show_owner=true&theme=nord&username=GodVas&repo=AttendanceCheck)](https://github.com/GodVas/AttendanceCheck)
   
-  [![-](https://github-readme-stats.vercel.app/api/pin/?show_owner=true&theme=nord&username=GodVas&repo=MiniGameAPI)](https://github.com/GodVas/MiniGameAPI)
+  [![-](https://github-readme-stats.vercel.app/api/pin/?show_owner=true&theme=nord&username=GodVas&repo=CustomShield)](https://github.com/GodVas/CustomShield)
   [![-](https://github-readme-stats.vercel.app/api/pin/?show_owner=true&theme=nord&username=GodVas&repo=ServerTransfer)](https://github.com/GodVas/ServerTransfer)
   
   [![-](https://github-readme-stats.vercel.app/api/pin/?show_owner=true&theme=nord&username=GodVas&repo=HackManager)](https://github.com/GodVas/HackManager)
