@@ -9,11 +9,6 @@
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:skh6075@gmail.com)](mailto:skh6075@gmail.com)
 [![velog Badge](https://img.shields.io/badge/Tech%20Blog-181717?logo=GitHub&logoColor=white)](https://velog.io/@skh6075)
 
-
-<br>
-
-* [코딩파티인증서](https://github.com/SKHCodingParty)
-
 <br>
 
 <p align="center">
