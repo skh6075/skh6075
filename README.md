@@ -33,6 +33,12 @@
 </p>
 
 
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=GodVas" />
+</p>
+
+
+
 <br><br>
 
 # :package: PocketMine-MP Library Virions
@@ -103,8 +109,4 @@
   
   [![-](https://github-readme-stats.vercel.app/api/pin/?show_owner=true&theme=nord&username=GodVas&repo=PyShootingGame)](https://github.com/GodVas/PyShootingGame)
   
-</div>
-
-<dive align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=GodVas" />
 </div>
