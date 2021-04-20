@@ -1,6 +1,5 @@
-### Hello!!
-
-## 안녕하세요. 저는 서울 아이티 고등학교에 재학중인 송기호 입니다.
+<h1 align="center">Hello, I'm AvasKr (Song Ki Ho)!</h1>
+<h3 align="center">안녕하세요. 저는 서울 아이티 고등학교에 재학중인 송기호 입니다.</h3>
 
 <br>
 
