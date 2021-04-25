@@ -11,11 +11,6 @@
 
 <br>
 
-### My Organizations
-> [PMVirion](https://github.com/PMVirion) - Developed PocketMine-MP Virion and archived.
-<br>
-> [TeamAvas](https://github.com/TeamAvas) - Develop and store the latest version of PocketMine-MP Plugin
-
 <p align="center">
   <a href="#">
     <img src="https://github-readme-stats.vercel.app/api?username=GodVas&show_icons=true&include_all_commits=true&line_height=33&count_private=true&theme=nord" />
