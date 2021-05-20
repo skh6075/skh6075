@@ -8,6 +8,7 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%234ED78E&title_bg=%23000000&icon=codio.svg&icon_color=%23254BC1&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:skh6075@gmail.com)](mailto:skh6075@gmail.com)
 [![velog Badge](https://img.shields.io/badge/Tech%20Blog-181717?logo=GitHub&logoColor=white)](https://velog.io/@skh6075)
+[![Youtube Badge](https://img.shields.io/badge/Youtube-ff0000?style=flat-square&logo=youtube&link=https://youtube.com/c/%EC%86%A1%EA%B8%B0%ED%98%B82003)](https://youtube.com/c/%EC%86%A1%EA%B8%B0%ED%98%B82003)
 ![My Profile View Count](https://komarev.com/ghpvc/?username=GodVas&style=flat-square&color=green)  
 
 <br>
