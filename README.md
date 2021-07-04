@@ -15,10 +15,10 @@
 
 [Baekjoon](https://www.acmicpc.net/user/skh6075)
 
-# Mobile Portal
+# My Personal Big-Project
 
 [TeamAvas](https://github.com/TeamAvas)
-[TeamIns](https://github.com/TeamIns)
+[TeamLiberty](https://github.com/TeamLiberty)
 
 <br>
 
