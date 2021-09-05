@@ -27,3 +27,38 @@
   <img src="https://img.shields.io/badge/Tech%20Blog-181717?logo=GitHub&logoColor=white)](https://velog.io/@skh6075" />
   <img src="https://komarev.com/ghpvc/?username=GodVas&style=flat-square&color=green" />
 </p>
+
+# My Stacks
+
+## Code Language's (+ Mark Code)
+
+![PHP](https://img.shields.io/badge/-PHP-grey?style=for-the-badge&logo=PHP)
+![Kotlin](https://img.shields.io/badge/-Kotlin-grey?style=for-the-badge&logo=Kotlin)
+![TypeScript](https://img.shields.io/badge/-TypeScript-grey?style=for-the-badge&logo=typescript)
+![Nodejs](https://img.shields.io/badge/-Nodejs-grey?style=for-the-badge&logo=Node.js)
+![Vuejs](https://img.shields.io/badge/-Vuejs-grey?style=for-the-badge&logo=Vue.js)
+![C++](https://img.shields.io/badge/-C++-grey?style=for-the-badge&logo=c%2B%2B)
+![Python](https://img.shields.io/badge/-Python-grey?style=for-the-badge&logo=Python)
+![Java](https://img.shields.io/badge/-java-grey?style=for-the-badge&logo=java)
+![HTML5](https://img.shields.io/badge/-HTML5-grey?style=for-the-badge&logo=html5)
+![CSS3](https://img.shields.io/badge/-CSS3-grey?style=for-the-badge&logo=css3)
+![Slack](https://img.shields.io/badge/-Slack-grey?style=for-the-badge&logo=Slack)
+
+## Most Used
+
+![PHP](https://img.shields.io/badge/-PHP-grey?style=for-the-badge&logo=PHP)
+![Kotlin](https://img.shields.io/badge/-Kotlin-grey?style=for-the-badge&logo=Kotlin)
+![TypeScript](https://img.shields.io/badge/-TypeScript-grey?style=for-the-badge&logo=typescript)
+![HTML5](https://img.shields.io/badge/-HTML5-grey?style=for-the-badge&logo=html5)
+![CSS3](https://img.shields.io/badge/-CSS3-grey?style=for-the-badge&logo=css3)
+![Slack](https://img.shields.io/badge/-Slack-grey?style=for-the-badge&logo=Slack)
+
+## SQL's
+![MySQL](https://img.shields.io/badge/-MySQL-grey?style=for-the-badge&logo=mysql)
+![MariaDB](https://img.shields.io/badge/-MariaDB-grey?style=for-the-badge&logo=MariaDB)
+
+## Collaborate Tool's
+
+![Git](https://img.shields.io/badge/-Git-grey?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-grey?style=for-the-badge&logo=github)
+![Linux](https://img.shields.io/badge/-Linux-grey?style=for-the-badge&logo=Linux)
