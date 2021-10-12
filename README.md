@@ -48,9 +48,6 @@
 ## Most Used
 
 ![PHP](https://img.shields.io/badge/-PHP-grey?style=for-the-badge&logo=PHP)
-![HTML5](https://img.shields.io/badge/-HTML5-grey?style=for-the-badge&logo=html5)
-![CSS3](https://img.shields.io/badge/-CSS3-grey?style=for-the-badge&logo=css3)
-![Slack](https://img.shields.io/badge/-Slack-grey?style=for-the-badge&logo=Slack)
 
 ## SQL
 ![MySQL](https://img.shields.io/badge/-MySQL-grey?style=for-the-badge&logo=mysql)
