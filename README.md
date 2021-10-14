@@ -16,7 +16,7 @@
 
 <p align="center">
   <a href="#">
-    <img src="https://github-profile-trophy.vercel.app/?username=GodVas&margin-w=28&margin-h=15&theme=nord" />
+    <img src="https://github-profile-trophy.vercel.app/?username=skh6075&margin-w=28&margin-h=15&theme=nord" />
   </a>
 </p>
 
