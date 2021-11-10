@@ -30,6 +30,11 @@
 
 # My Stacks
 
+## Develop
+
+![wordpress](https://img.shields.io/badge/-wordpress-grey?style=for-the-badge&logo=wordpress)
+![minecraft](https://img.shields.io/badge/-minecraft-grey?style=for-the-badge&logo=minecraft)
+
 ## Code Language's (+ Mark Code)
 
 ![PHP](https://img.shields.io/badge/-PHP-grey?style=for-the-badge&logo=PHP)
