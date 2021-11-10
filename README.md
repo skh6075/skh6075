@@ -48,6 +48,8 @@
 ## Most Used
 
 ![PHP](https://img.shields.io/badge/-PHP-grey?style=for-the-badge&logo=PHP)
+![Kotlin](https://img.shields.io/badge/-Kotlin-grey?style=for-the-badge&logo=Kotlin)
+![Java](https://img.shields.io/badge/-java-grey?style=for-the-badge&logo=java)
 
 ## SQL
 ![MySQL](https://img.shields.io/badge/-MySQL-grey?style=for-the-badge&logo=mysql)
