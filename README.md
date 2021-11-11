@@ -1,4 +1,4 @@
-# :star: Introduce-Me
+# :star: Introduce
 ```kotlin
 var name: MutableMap<String, String> = mutableMapOf(
     "kor" to "송기호",
@@ -7,4 +7,6 @@ var name: MutableMap<String, String> = mutableMapOf(
     "eng-aka" to "avas"
 );
 ```
+
+# :pager: Interests
 ``` Loading... % ```
