@@ -10,18 +10,10 @@ var name: MutableMap<String, String> = mutableMapOf(
 
 # :pager: Interests
 ```kotlin
-var frontEnd: Array<String> = arrayOf(
+var languages: Array<String> = arrayOf(
     "HTML",
     "JavaScript",
-    "TypeScript"
-)
-var backEnd: Array<String> = arrayOf(
     "PHP",
-    "Java",
-    "Python",
-    "JavaScript"
-)
-var mobile: Array<String> = arrayOf(
     "Java",
     "Kotlin"
 )
