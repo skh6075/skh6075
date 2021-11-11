@@ -1,9 +1,3 @@
-<h1 align="center">Hello, I'm AvasKr (Song Ki Ho)!</h1>
-<h3 align="center">안녕하세요. 저는 서울 아이티 고등학교에 재학중인 송기호 입니다.</h3>
-<h4 align="center">MinecraftBE 게임용 서버 소프트웨어 프로그래밍을 시작으로 개발에 관심이 생겨서 개발쪽으로 공부하고 있습니다.</h4>
-
-<br>
-
 <p align="center">
   <a href="#">
     <img src="https://github-readme-stats.vercel.app/api?username=skh6075&show_icons=true&include_all_commits=true&line_height=33&count_private=true&theme=nord" />
