@@ -5,7 +5,7 @@ var name: MutableMap<String, String> = mutableMapOf(
     "eng" to "Song kiho",
     "kor-aka" to "아바스",
     "eng-aka" to "avas"
-);
+)
 ```
 
 # :pager: Interests
