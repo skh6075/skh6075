@@ -19,4 +19,4 @@ var languages: Array<String> = arrayOf(
 )
 ```
 
-``` Loading... % ```
+``` Loading... %% ```
