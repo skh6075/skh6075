@@ -8,7 +8,7 @@ var name: MutableMap<String, String> = mutableMapOf(
 )
 ```
 
-# 📝 Interests
+# :memo: Interests
 ```kotlin
 var languages: Array<String> = arrayOf(
     "HTML",
