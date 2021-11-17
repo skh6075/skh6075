@@ -35,7 +35,7 @@ val languages: Array<String> = arrayOf(
 ```kotlin
 val education: MutableMap<String, Any> = mutableMapOf(
     "school" to mutableMapOf<String, Any>(
-        "서울아이티고등학교" to mutableMapOf<String>(
+        "서울아이티고등학교" to mutableMapOf<String, String>(
             "웹앱 개발반" to "2019 ~ 2021",
             "안드로이드 개발반" to "2019",
             "파이썬 이용 인공지능 개발반" to "2020",
@@ -51,13 +51,13 @@ val education: MutableMap<String, Any> = mutableMapOf(
 ### 🌱 Development
 ```kotlin
 val education: MutableMap<String, Any> = mutableMapOf(
-    "PocketMine-MP" to mutableMapOf<String, Any>(
+    "PocketMine-MP" to mutableMapOf<String, String>(
         "S3DItemToolS" to "2020/09/18",
         "CustomItemLoader" to "2020/12/20",
         "MagicSpell" to "2020/09/19",
         "organization" to "TeamAvas"
     ),
-    "WordPress" to mutableMapOf<String, Any>(
+    "WordPress" to mutableMapOf<String, String>(
         "eSignonAPI" to "2021/11/08"
     )
 )
