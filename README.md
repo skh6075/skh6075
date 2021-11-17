@@ -1,6 +1,18 @@
-# :star: Introduce
+<p align="center">
+    <a href="#">
+        <img src="https://github-readme-stats.vercel.app/api?username=skh6075&show_icons=true&include_all_commits=true&line_height=33&count_private=true&theme=nord" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=skh6075&langs_count=4&count_private=true&theme=nord" />
+    </a>
+    <br>
+</p>
+<br>
+
+### 💬 Conversation
+[![KakaoTalk](https://img.shields.io/badge/KakaoTalk-282121?style=flat&logo=KakaoTalk&logoColor=white)](https://open.kakao.com/me/skh6075/)
+
+### :star: Introduce
 ```kotlin
-var name: MutableMap<String, String> = mutableMapOf(
+val name: MutableMap<String, String> = mutableMapOf(
     "kor" to "송기호",
     "eng" to "Song kiho",
     "kor-aka" to "아바스",
@@ -8,9 +20,9 @@ var name: MutableMap<String, String> = mutableMapOf(
 )
 ```
 
-# :memo: Interests
+### ⚡ Interests
 ```kotlin
-var languages: Array<String> = arrayOf(
+val languages: Array<String> = arrayOf(
     "HTML",
     "JavaScript",
     "PHP",
@@ -19,29 +31,34 @@ var languages: Array<String> = arrayOf(
 )
 ```
 
-# 👨‍💻 Dev History
+### 🏫 Education
+```kotlin
+val education: MutableMap<String, Any> = mutableMapOf(
+    "school" to mutableMapOf<String, Any>(
+        "서울아이티고등학교" to mutableMapOf<String>(
+            "웹앱 개발반" to "2019 ~ 2021",
+            "안드로이드 개발반" to "2019",
+            "파이썬 이용 인공지능 개발반" to "2020",
+            "서울 과학기술대학교 SW캠프" to "2020"
+        )
+    ),
+    "company" to mutableMapOf<String, Any>(
+        "private" to mutableMapOf<String>()
+    )
+)
+```
 
-## ![minecraft](https://img.shields.io/badge/-minecraft-grey?style=for-the-badge&logo=minecraft) 
-
-### :memo: Skills
-#### * PocketMine-MP
-![PHP](https://img.shields.io/badge/-PHP-grey?style=for-the-badge&logo=PHP) ![MySQL](https://img.shields.io/badge/-MySQL-grey?style=for-the-badge&logo=mysql)
-#### * NukkitX (Power)
-![Java](https://img.shields.io/badge/-java-grey?style=for-the-badge&logo=java) ![Kotlin](https://img.shields.io/badge/-Kotlin-grey?style=for-the-badge&logo=Kotlin)
-
-### :date: Start Date
-* PocketMine-MP : ``` 2018/10/12 ~ ing ```
-* NukkitX (Power) : ``` 2020/09/08 ~ ing ```
-
-<br>
-
-## ![wordpress](https://img.shields.io/badge/-wordpress-grey?style=for-the-badge&logo=wordpress)
-
-### :memo: Skills
-![PHP](https://img.shields.io/badge/-PHP-grey?style=for-the-badge&logo=PHP) ![HTML5](https://img.shields.io/badge/-HTML5-grey?style=for-the-badge&logo=html5) ![CSS3](https://img.shields.io/badge/-CSS3-grey?style=for-the-badge&logo=css3) ![MySQL](https://img.shields.io/badge/-MySQL-grey?style=for-the-badge&logo=mysql)
-
-### :date: Start Date
-* ``` 2021/11/01 ~ ing ```
-
-
-``` Loading... %% ```
+### 🌱 Development
+```kotlin
+val education: MutableMap<String, Any> = mutableMapOf(
+    "PocketMine-MP" to mutableMapOf<String, Any>(
+        "S3DItemToolS" to "2020/09/18",
+        "CustomItemLoader" to "2020/12/20",
+        "MagicSpell" to "2020/09/19",
+        "organization" to "TeamAvas"
+    ),
+    "WordPress" to mutableMapOf<String, Any>(
+        "eSignonAPI" to "2021/11/08"
+    )
+)
+```
