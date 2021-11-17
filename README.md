@@ -50,7 +50,7 @@ val education: MutableMap<String, Any> = mutableMapOf(
 
 ### 🌱 Development
 ```kotlin
-val education: MutableMap<String, Any> = mutableMapOf(
+val development: MutableMap<String, Any> = mutableMapOf(
     "PocketMine-MP" to mutableMapOf<String, String>(
         "S3DItemToolS" to "2020/09/18",
         "CustomItemLoader" to "2020/12/20",
