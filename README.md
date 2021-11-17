@@ -41,9 +41,6 @@ val education: MutableMap<String, Any> = mutableMapOf(
             "파이썬 이용 인공지능 개발반" to "2020",
             "서울 과학기술대학교 SW캠프" to "2020"
         )
-    ),
-    "company" to mutableMapOf<String, Any>(
-        "private" to mutableMapOf<String>()
     )
 )
 ```
