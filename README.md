@@ -1,60 +1,41 @@
-<p align="center">
-    <a href="#">
-        <img src="https://github-readme-stats.vercel.app/api?username=skh6075&show_icons=true&include_all_commits=true&line_height=33&count_private=true&theme=nord" />
-        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=skh6075&langs_count=4&count_private=true&theme=nord" />
-    </a>
-    <br>
-</p>
+# 🌠 My Stats
+<p align="center"><a href="#">
+    <img src="https://github-readme-stats.vercel.app/api?username=skh6075&show_icons=true&include_all_commits=true&line_height=33&count_private=true&theme=nord" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=skh6075&langs_count=4&count_private=true&theme=nord" />
+</a></p>
+<p align="center"><a href="#">
+    <img src="https://github-profile-trophy.vercel.app/?username=PresentKim&margin-w=28&margin-h=15&theme=nord" />
+</p></a>
+
+<br>
 <br>
 
-### 💬 Conversation
-[![KakaoTalk](https://img.shields.io/badge/KakaoTalk-282121?style=flat&logo=KakaoTalk&logoColor=white)](https://open.kakao.com/me/skh6075/)
-
-### :star: Introduce
-```kotlin
-val name: MutableMap<String, String> = mutableMapOf(
-    "kor" to "송기호",
-    "eng" to "Song kiho",
-    "kor-aka" to "아바스",
-    "eng-aka" to "avas"
-)
+# 📢 Notice
+```
+* All PocketMine-MP plugins and virions will be updated to API4.0.0
+* (a repo that will probably be private or deleted)
 ```
 
-### ⚡ Interests
-```kotlin
-val languages: Array<String> = arrayOf(
-    "HTML",
-    "JavaScript",
-    "PHP",
-    "Java",
-    "Kotlin"
-)
-```
+<br>
+<br>
 
-### 🏫 Education
-```kotlin
-val education: MutableMap<String, Any> = mutableMapOf(
-    "서울아이티고등학교" to mutableMapOf<String, String>(
-        "웹앱 개발반" to "2019 ~ 2021",
-        "안드로이드 개발반" to "2019",
-        "파이썬 이용 인공지능 개발반" to "2020",
-        "서울 과학기술대학교 SW캠프" to "2020"
-    )
-)
-```
+# 📦 PMMP Plugins
+<div align="center">
+  
+  [![-](https://github-readme-stats.vercel.app/api/pin/?show_owner=true&theme=nord&username=skh6075&repo=CustomItemLoader)](https://github.com/TeamAvas/CustomItemLoader)
+  [![-](https://github-readme-stats.vercel.app/api/pin/?show_owner=true&theme=nord&username=skh6075&repo=S3DItemToolS)](https://github.com/TeamAvas/S3DItemToolS)
+  
+  [![-](https://github-readme-stats.vercel.app/api/pin/?show_owner=true&theme=nord&username=skh6075&repo=AdvancedNetherite)](https://github.com/TeamAvas/AdvancedNetherite)
+  [![-](https://github-readme-stats.vercel.app/api/pin/?show_owner=true&theme=nord&username=skh6075&repo=ProtectItemFrame)](https://github.com/TeamAvas/ProtectItemFrame)
+  
+</div>
 
-### 🌱 Development
-```kotlin
-val development: MutableMap<String, Any> = mutableMapOf(
-    "PocketMine-MP" to mutableMapOf<String, String>(
-        "S3DItemToolS" to "2020/09/18",
-        "CustomItemLoader" to "2020/12/20",
-        "MagicSpell" to "2020/09/19",
-        "organization" to "TeamAvas"
-    ),
-    "WordPress" to mutableMapOf<String, String>(
-        "eSignonAPI" to "2021/11/08"
-    )
-)
-```
-``` Loading... %% ```
+<br>
+<br>
+
+# 📘 PMMP Virions
+<div align="center">
+  
+  [![-](https://github-readme-stats.vercel.app/api/pin/?show_owner=true&theme=nord&username=skh6075&repo=libMiniGame)](https://github.com/PMVirion/libMiniGame)
+  
+</div>
