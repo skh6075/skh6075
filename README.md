@@ -23,9 +23,10 @@
     <img src="https://img.shields.io/badge/-PHP-grey?style=for-the-badge&logo=PHP"> 
     <img src="https://img.shields.io/badge/-JavaScript-grey?style=for-the-badge&logo=javascript"> 
     <img src="https://img.shields.io/badge/-JQuery-grey?style=for-the-badge&logo=jquery">
+    <img src="https://img.shields.io/badge/-ajax-grey?style=for-the-badge&logo=ajax">
     <img src="https://img.shields.io/badge/-MySQL-grey?style=for-the-badge&logo=mysql">
-    <img src="https://img.shields.io/badge/-MariaDB-grey?style=for-the-badge&logo=MariaDB">
     <br>
+    <img src="https://img.shields.io/badge/-MariaDB-grey?style=for-the-badge&logo=MariaDB">
     <img src="https://img.shields.io/badge/-Git-grey?style=for-the-badge&logo=git">
     <img src="https://img.shields.io/badge/-GitHub-grey?style=for-the-badge&logo=github">
     <img src="https://img.shields.io/badge/-Linux-grey?style=for-the-badge&logo=Linux">
@@ -45,6 +46,7 @@
     <img src="https://img.shields.io/badge/-Python-grey?style=for-the-badge&logo=Python"> 
     <img src="https://img.shields.io/badge/-JavaScript-grey?style=for-the-badge&logo=javascript"> 
     <img src="https://img.shields.io/badge/-JQuery-grey?style=for-the-badge&logo=jquery">
+    <img src="https://img.shields.io/badge/-ajax-grey?style=for-the-badge&logo=ajax">
     <br>
     <img src="https://img.shields.io/badge/-MySQL-grey?style=for-the-badge&logo=mysql">
     <img src="https://img.shields.io/badge/-MariaDB-grey?style=for-the-badge&logo=MariaDB">
