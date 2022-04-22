@@ -32,7 +32,7 @@
     <img src="https://img.shields.io/badge/-Linux-grey?style=for-the-badge&logo=Linux">
     <img src="https://img.shields.io/badge/-Ubuntu-grey?style=for-the-badge&logo=Ubuntu">
     <br><br>
-    <Strong>⚒️아직은 부족해요!⚒️</Strong><br><br>
+    <Strong>⚒️아직은 부족해요⚒️</Strong><br><br>
     <img src="https://img.shields.io/badge/-HTML5-grey?style=for-the-badge&logo=html5"> 
     <img src="https://img.shields.io/badge/-CSS3-grey?style=for-the-badge&logo=css3"> 
     <img src="https://img.shields.io/badge/-Python-grey?style=for-the-badge&logo=Python"> 
