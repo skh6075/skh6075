@@ -18,7 +18,7 @@
   <img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:skh6075@gmail.com)](mailto:skh6075@gmail.com" />
 </p><br><br>
 
-<p align="center"><a href="#">
+<p align="center" display="inline-block">
     <Strong>⚒️잘 다루는 기술⚒️</Strong><br><br>
     <img src="https://img.shields.io/badge/-PHP-grey?style=for-the-badge&logo=PHP"> 
     <img src="https://img.shields.io/badge/-JavaScript-grey?style=for-the-badge&logo=javascript"> 
@@ -35,9 +35,9 @@
     <img src="https://img.shields.io/badge/-HTML5-grey?style=for-the-badge&logo=html5"> 
     <img src="https://img.shields.io/badge/-CSS3-grey?style=for-the-badge&logo=css3"> 
     <img src="https://img.shields.io/badge/-Python-grey?style=for-the-badge&logo=Python"> 
-</a></p><br><br>
+</p><br><br>
 
-<p align="center"><a href="#">
+<p align="center" display="inline-block">
     <Strong>⚒️실무에서 사용해본 기술⚒️</Strong><br><br>
     <img src="https://img.shields.io/badge/-PHP-grey?style=for-the-badge&logo=PHP"> 
     <img src="https://img.shields.io/badge/-HTML5-grey?style=for-the-badge&logo=html5"> 
@@ -58,12 +58,12 @@
     <img src="https://img.shields.io/badge/-PHPStorm-grey?style=for-the-badge&logo=PHPStorm">
     <img src="https://img.shields.io/badge/-intellij-grey?style=for-the-badge&logo=intellij">
     <img src="https://img.shields.io/badge/-PyCharm-grey?style=for-the-badge&logo=PyCharm">
-</a></p><br><br>
+</p><br><br>
 
-<p align="center"><a href="#">
+<p align="center" display="inline-block">
     <Strong>💡공부중인 것들💡</Strong><br><br>
     <img src="https://img.shields.io/badge/-JAVA-grey?style=for-the-badge&logo=JAVA">
     <img src="https://img.shields.io/badge/-kotlin-grey?style=for-the-badge&logo=kotlin">
     <img src="https://img.shields.io/badge/-Spring-grey?style=for-the-badge&logo=Spring">
     <img src="https://img.shields.io/badge/-SpringBoot-grey?style=for-the-badge&logo=SpringBoot">
-</a></p><br><br>
+</p><br><br>
