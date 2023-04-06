@@ -11,7 +11,7 @@
 
 <p align="center">
     <Strong>👐반가워요!!👐</Strong><br>
-    스무살 백엔드 개발자 송기호입니다.<br>
+    21살 백엔드 개발자 송기호입니다.<br>
     저는 독학으로 많은 언어를 공부하며, 여러 사람들과 협업하는 것을 즐깁니다<br>
     항상 배우려는 자세로 개발을 하고 있습니다.<br><br>
   <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%234ED78E&title_bg=%23000000&icon=codio.svg&icon_color=%23254BC1&title=hits&edge_flat=false)](https://hits.seeyoufarm.com" />
