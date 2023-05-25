@@ -12,9 +12,9 @@
 - Email: skh6075@gmail.com
 
 ## My Skills
-[![Languages](https://skillicons.dev/icons?i=php,java,kotlin,js,jquery,nodejs,cpp,python,swift)](https://skillicons.dev)
+[![Languages](https://skillicons.dev/icons?i=php,java,kotlin,js,jquery,nodejs,cpp)](https://skillicons.dev)
 
-[![Framworks&Engines](https://skillicons.dev/icons?i=linux,wordpress,spring,ktor,django,flask,firebase,bots)](https://skillicons.dev)
+[![Framworks&Engines](https://skillicons.dev/icons?i=linux,wordpress,spring,ktor,firebase,bots)](https://skillicons.dev)
 
 [![Database&gits](https://skillicons.dev/icons?i=docker,mysql,sqlite,mongodb,git,github,githubactions,gitlab,gradle,maven)](https://skillicons.dev)
 
@@ -24,7 +24,7 @@
 
 | Project | Since | Skills |
 | :-----: | :---: | :----: |
-| [**DelightMC**](https://github.com) | 2022~ | <img src="https://skillicons.dev/icons?i=php,java,kotlin,gradle,git,docker,discord,bots,nodejs,html,jquery,js,androidstudio,swift" /> |
+| [**DelightMC**](https://github.com) | 2022~ | <img src="https://skillicons.dev/icons?i=php,java,kotlin,gradle,git,docker,discord,bots,nodejs,html,jquery,js,androidstudio" /> |
 
 
 <details>
