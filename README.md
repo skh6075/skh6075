@@ -22,10 +22,10 @@
 
 ## Projects 
 
-| Project | Since | Skills |
-| :-----: | :---: | :----: |
-| [**DelightMC**](https://github.com) | 2022~2025 | <img src="https://skillicons.dev/icons?i=php,java,kotlin,docker,discord,bots,nodejs,html,jquery,js,androidstudio" /> |
-| [**Kukkit**](https://github.com/Kukkit/) | 2025~ | <img src="https://skillicons.dev/icons?i=kotlin" /> |
+| Project | Since | Status | Skills |
+| :-----: | :---: | :---: | :----: |
+| [**DelightMC**](https://github.com) | 2022~2025 | Resting | <img src="https://skillicons.dev/icons?i=php,java,kotlin,docker,discord,bots,nodejs,html,jquery,js,androidstudio" /> |
+| [**Kukkit**](https://github.com/Kukkit/) | 2025~ | Working | <img src="https://skillicons.dev/icons?i=kotlin" /> |
 
 
 <details>
