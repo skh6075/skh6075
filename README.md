@@ -1,7 +1,7 @@
 ## Overview
 
 <div>
-    Hello, I'm Kiho Song (aka. Avas), a 22 year old backend developer living in South Korea. <br>
+    Hello, I'm Kiho Song (aka. Avas, Andrew), a 23 year old backend developer living in South Korea. <br>
     I am self-taught, learning many languages, and enjoy collaborating with different people. <br>
     <br>
     The main languages used are PHP and Java, and he is currently in charge of and leading many projects.
@@ -24,7 +24,8 @@
 
 | Project | Since | Skills |
 | :-----: | :---: | :----: |
-| [**DelightMC**](https://github.com) | 2022~ | <img src="https://skillicons.dev/icons?i=php,java,kotlin,gradle,git,docker,discord,bots,nodejs,html,jquery,js,androidstudio" /> |
+| [**DelightMC**](https://github.com) | 2022~2025 | <img src="https://skillicons.dev/icons?i=php,java,kotlin,docker,discord,bots,nodejs,html,jquery,js,androidstudio" /> |
+| [**Kukkit**](https://github.com/Kukkit/) | 2025~ | <img src="https://skillicons.dev/icons?i=kotlin" /> |
 
 
 <details>
